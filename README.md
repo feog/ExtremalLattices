@@ -9,3 +9,5 @@ However, to obtain all of them, we need small dimensional lattices, and for 14- 
 Then we compute the secrecy gain of lattices using SecrecyGains.ipynb.
 
 Finally one more 11-modular lattice is found (see AlgebraicLattices.ipynb) for one more point of comparison in secrecy gain.
+
+The file LowerBoundonMaxSecGain is a sage notebook, it contains additional computations, namely: a lower bound on the maximum secrecy gain computed by using Siegel's formula. 
